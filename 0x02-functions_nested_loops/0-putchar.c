@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** 
+/**
  * main - program prints putchar
  *
  * Return: Always 0 (Success)
