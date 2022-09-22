@@ -2,8 +2,8 @@
 #include <string.h>
 
 /**
- * *_strcat-> concatenates two strings
- * @des: parameter1
+ * _strcat-> concatenates two strings
+ * @dest: parameter1
  * @src: parameter2
  * Return: a string
  */
